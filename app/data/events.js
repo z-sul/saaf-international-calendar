@@ -9,7 +9,7 @@ export const externalEvents = [
   {
     id: "external-002",
     title: "كأس تحدي الرئيس",
-    startDate: "2026-07-30",
+    startDate: "2026-07-28",
     endDate: "2026-08-02",
     location: "بنغلاديش",
   },
