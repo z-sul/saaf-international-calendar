@@ -27,15 +27,6 @@ export const externalEvents = [
     location: "كوريا الجنوبية",
   },
   {
-    id: "external-004",
-    titleEn: "West Asian Championship",
-    locationEn: "United Arab Emirates",
-    title: "بطولة غرب آسيا",
-    startDate: "2026-10-15",
-    endDate: "2026-10-22",
-    location: "الإمارات",
-  },
-  {
     id: "external-005",
     titleEn: "Asia Cup – Stage 3",
     locationEn: "China",
@@ -43,15 +34,6 @@ export const externalEvents = [
     startDate: "2026-11-16",
     endDate: "2026-11-21",
     location: "الصين",
-  },
-  {
-    id: "external-006",
-    titleEn: "Fazza International Championship",
-    locationEn: "United Arab Emirates",
-    title: "بطولة فزاع الدولية",
-    startDate: "2026-12-04",
-    endDate: "2026-12-10",
-    location: "الإمارات",
   },
   {
     id: "external-007",
