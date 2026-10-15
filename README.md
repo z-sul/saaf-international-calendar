@@ -1,24 +1,13 @@
-# البرنامج الزمني الخارجي للاتحاد السعودي للسهام
+# Saudi Archery Federation – International Calendar (Arabic / English)
 
-هذا مشروع مستقل بالكامل عن مشروع البطولات المحلية.
+Next.js 14 project for the international championships calendar.
 
-## طريقة النشر
+## Deploy
+Upload all folders/files to the existing `z-sul/saaf-international-calendar` GitHub repository (replace the old project files). Vercel should redeploy automatically if connected.
 
-1. أنشئ مستودع GitHub جديد باسم مثل:
-   `saaf-external-calendar`
-2. ارفع جميع الملفات الموجودة داخل هذا المجلد إلى المستودع الجديد.
-3. افتح Vercel واختر **Add New Project**.
-4. اختر المستودع الجديد.
-5. اضغط **Deploy**.
+## Calendar downloads
+- Arabic: `/api/calendar?lang=ar`
+- English: `/api/calendar?lang=en`
+- Old link `/api/calendar` still downloads Arabic for backwards compatibility.
 
-سيعطيك Vercel رابطًا مستقلًا مثل:
-
-`https://saaf-external-calendar.vercel.app`
-
-## رابط تحميل التقويم
-
-بعد النشر سيكون رابط ملف التقويم:
-
-`https://اسم-مشروعك.vercel.app/api/calendar`
-
-لا توجد أي روابط أو بيانات مشتركة مع مشروع البطولات المحلية.
+Events with missing dates are displayed on the site but not included in `.ics` downloads. Translation labels should be reviewed against the official competition names before publication.

@@ -1,6 +1,8 @@
 export const externalEvents = [
   {
     id: "external-001",
+    titleEn: "Summer Training Camp",
+    locationEn: "Qatar",
     title: "المعسكر الصيفي",
     startDate: "2026-07-26",
     endDate: "2026-08-08",
@@ -8,6 +10,8 @@ export const externalEvents = [
   },
   {
     id: "external-002",
+    titleEn: "President’s Challenge Cup",
+    locationEn: "Bangladesh",
     title: "كأس تحدي الرئيس",
     startDate: "2026-07-28",
     endDate: "2026-08-02",
@@ -15,6 +19,8 @@ export const externalEvents = [
   },
   {
     id: "external-003",
+    titleEn: "International Youth and Cadet Championship",
+    locationEn: "South Korea",
     title: "بطولة الشباب والناشئين الدولية",
     startDate: "2026-08-09",
     endDate: "2026-08-14",
@@ -22,6 +28,8 @@ export const externalEvents = [
   },
   {
     id: "external-004",
+    titleEn: "West Asian Championship",
+    locationEn: "United Arab Emirates",
     title: "بطولة غرب آسيا",
     startDate: "2026-10-15",
     endDate: "2026-10-22",
@@ -29,6 +37,8 @@ export const externalEvents = [
   },
   {
     id: "external-005",
+    titleEn: "Asia Cup – Stage 3",
+    locationEn: "China",
     title: "بطولة كأس آسيا - المرحلة الثالثة",
     startDate: "2026-11-16",
     endDate: "2026-11-21",
@@ -36,6 +46,8 @@ export const externalEvents = [
   },
   {
     id: "external-006",
+    titleEn: "Fazza International Championship",
+    locationEn: "United Arab Emirates",
     title: "بطولة فزاع الدولية",
     startDate: "2026-12-04",
     endDate: "2026-12-10",
@@ -43,6 +55,8 @@ export const externalEvents = [
   },
   {
     id: "external-007",
+    titleEn: "Asian Youth Champions Championship",
+    locationEn: "United Arab Emirates",
     title: "بطولة أبطال آسيا للشباب",
     startDate: "2026-12-14",
     endDate: "2026-12-22",
@@ -50,6 +64,8 @@ export const externalEvents = [
   },
   {
     id: "external-008",
+    titleEn: "Asia Cup – Stage 1",
+    locationEn: "Thailand",
     title: "بطولة كأس آسيا - المرحلة الأولى",
     startDate: "2027-02-14",
     endDate: "2027-02-21",
@@ -57,6 +73,8 @@ export const externalEvents = [
   },
   {
     id: "external-009",
+    titleEn: "The Vegas Shoot (Indoor)",
+    locationEn: "United States of America",
     title: "بطولة فيغاس للصالات المغلقة",
     startDate: "2027-03-11",
     endDate: "2027-03-14",
@@ -64,6 +82,8 @@ export const externalEvents = [
   },
   {
     id: "external-010",
+    titleEn: "European Grand Prix – Stage 1",
+    locationEn: "Türkiye",
     title: "الجائزة الأوروبية الكبرى - المرحلة الأولى",
     startDate: "2027-03-22",
     endDate: "2027-03-27",
@@ -71,6 +91,8 @@ export const externalEvents = [
   },
   {
     id: "external-011",
+    titleEn: "Archery World Cup – Stage 1",
+    locationEn: "China",
     title: "بطولة كأس العالم - المرحلة الأولى",
     startDate: "2027-04-13",
     endDate: "2027-04-18",
@@ -78,6 +100,8 @@ export const externalEvents = [
   },
   {
     id: "external-012",
+    titleEn: "Gwangju Open Championship",
+    locationEn: "South Korea",
     title: "بطولة غيانغ المفتوحة",
     startDate: "",
     endDate: "",
@@ -85,6 +109,8 @@ export const externalEvents = [
   },
   {
     id: "external-013",
+    titleEn: "Conquest International Championship",
+    locationEn: "Türkiye",
     title: "بطولة كونيكويست الدولية",
     startDate: "",
     endDate: "",
@@ -92,6 +118,8 @@ export const externalEvents = [
   },
   {
     id: "external-014",
+    titleEn: "Archery World Cup – Stage 2",
+    locationEn: "Türkiye",
     title: "بطولة كأس العالم - المرحلة الثانية",
     startDate: "2027-05-04",
     endDate: "2027-05-09",
@@ -99,6 +127,8 @@ export const externalEvents = [
   },
   {
     id: "external-015",
+    titleEn: "European Youth Cup",
+    locationEn: "Bulgaria",
     title: "كأس أوروبا للشباب",
     startDate: "2027-05-17",
     endDate: "2027-05-22",
@@ -106,6 +136,8 @@ export const externalEvents = [
   },
   {
     id: "external-016",
+    titleEn: "Archery World Cup – Stage 3",
+    locationEn: "Mexico",
     title: "بطولة كأس العالم - المرحلة الثالثة",
     startDate: "2027-06-08",
     endDate: "2027-06-13",
